@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I'm currently working on AI Automation and Web Development projects<br>👯 I'm looking to collaborate on Data Analytics and Machine Learning initiatives<br>🤝 I'm open to discussing data science, analytics strategies, and automation opportunities<br>🌱 I'm currently learning Advanced AI tools, LLM fine-tuning, and React development<br>💬 Ask me about Data Analysis, Power BI, SQL, Python, and AI Automation<br>⚡ Fun fact: I've built 3 AI-driven web apps & Web Dashboard 
+🔭 I'm currently working on AI Automation and BI Development projects<br>👯 I'm looking to collaborate on Data Analytics and Ai Automation initiatives<br>🤝 I'm open to discussing data science, analytics strategies, and automation opportunities<br>🌱 I'm currently learning Advanced AI tools, LLM fine-tuning, and React development<br>💬 Ask me about Data Analysis, Power BI, SQL, Python, and AI Automation<br>⚡ Fun fact: I've built 3 AI-driven web apps & Web Dashboard 
 
 
 ## 🌐 Socials:
